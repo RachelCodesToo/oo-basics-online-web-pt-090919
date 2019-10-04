@@ -6,7 +6,8 @@ class Shoe
   def initialize(brand= "Nike")
   end 
   
-  def cobble
+  def cobble(condition)
+    puts "Your shoes is as good as new!"
   end 
   
   
