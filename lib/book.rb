@@ -1,6 +1,6 @@
 #book.rb 
 
-class book
+class Book
 end
 
 
