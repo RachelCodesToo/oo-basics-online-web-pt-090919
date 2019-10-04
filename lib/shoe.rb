@@ -11,7 +11,8 @@ class Shoe
     puts "Your shoe is as good as new!"
   end 
   
-  De
+  def condition
+    @conition = "new"
   
   
 end 
